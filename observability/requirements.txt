@@ -1,0 +1,10 @@
+streamlit
+faiss-cpu
+sentence-transformers
+openai
+pypdf
+numpy
+logfire
+arize
+arize-otel
+python-dotenv
